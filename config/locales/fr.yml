@@ -734,12 +734,12 @@ fr:
         other: "près de %{count} ans"
       half_a_minute: "30 secondes"
       less_than_x_minutes: 
-        one: mainteant
+        one: maintenant
         other: "moins de %{count} minutes"
         zero: "moins d'une minute"
       less_than_x_seconds: 
-        one: mainteant
-        other: mainteant
+        one: maintenant
+        other: maintenant
         zero: "moins d'une seconde"
       over_x_years: 
         one: "plus d’un an"
@@ -754,8 +754,8 @@ fr:
         one: "1 mois"
         other: "%{count} mois"
       x_seconds: 
-        one: mainteant
-        other: mainteant
+        one: maintenant
+        other: maintenant
     prompts: 
       day: Day
       hour: Hour
