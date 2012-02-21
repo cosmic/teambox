@@ -19,8 +19,10 @@ public/avatars
 public/logos
 public/jammit/*
 public/stylesheets
+public/sprockets
 public/sprockets.js
 /uploads
+vendor/bundle
 webrat-*
 capybara-*
 rerun.txt
