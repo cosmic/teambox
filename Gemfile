@@ -11,7 +11,7 @@ group :rails do
 end
 
 #Temporary hack - Fix once this ticket: is resolved
-gem 'activesupport-i18n-patch', :git => 'git://github.com/teambox/activesupport-i18n-patch.git'
+gem 'activesupport-i18n-patch', :git => 'https://github.com/teambox/activesupport-i18n-patch.git'
 
 gem 'nokogiri'
 gem 'SystemTimer', '~> 1.2.0', :require => 'system_timer'

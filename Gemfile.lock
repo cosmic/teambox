@@ -14,17 +14,17 @@ GIT
     will_paginate (3.0.pre3)
 
 GIT
-  remote: git://github.com/teambox/activesupport-i18n-patch.git
-  revision: 2e835783c0ea7062ad280b71b04060bd9b89e1a4
-  specs:
-    activesupport-i18n-patch (0.0.1)
-
-GIT
   remote: git://github.com/teambox/choices.git
   revision: 675faa587554c08b0f060fc240974b33fcd3d24d
   specs:
     choices (0.2.0)
       hashie (>= 0.4.0)
+
+GIT
+  remote: https://github.com/teambox/activesupport-i18n-patch.git
+  revision: 2e835783c0ea7062ad280b71b04060bd9b89e1a4
+  specs:
+    activesupport-i18n-patch (0.0.1)
 
 GEM
   remote: http://rubygems.org/
