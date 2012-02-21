@@ -101,8 +101,7 @@ defaults: &defaults
 
   # You can configure standard oauth provider here, or any supported omni-auth provider
   # in the omni-auth initializer.
-  #
-  #  providers:
+  providers:
   #  - :provider: github
   #    :key: 
   #    :secret: 
@@ -112,6 +111,10 @@ defaults: &defaults
   #  - :provider: facebook
   #    :key: 
   #    :secret: 
+    - :provider: google
+      :key: teambox.cosmic-link.com
+      :secret: "3www62U0HMmSqKae2lkovRWa"
+
   
   heroku: <%= !!ENV['HEROKU_TYPE'] %>
 
