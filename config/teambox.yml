@@ -94,7 +94,7 @@ defaults: &defaults
   tracking_enabled: true
 
   # Destination where your users could write to ask for help. Accepts an email or website.
-  support: http://help.teambox.com
+  support: adminweb@agencecosmic.com
 
   help_url: http://help.teambox.com/faqs/using-teambox
   support_url: http://teambox.com/community
